@@ -1,0 +1,28 @@
+{
+    "image": "dog-puppy-on-garden-royalty-free-image-1586966191.jpg",
+    "banner": "banner-detail.jpg",
+    "name": "candidate2",
+    "phone": "092212346789",
+    "designation": "Graphic Designer",
+    "location": "Vigan",
+    "salary": "50000",
+    "skills": [
+        {
+            "itemName": "Java",
+            "id": "65a9d10b215aa869890c6484"
+        },
+        {
+            "itemName": "PHP",
+            "id": "65a9d100215aa869890c6483"
+        }
+    ],
+    "resume": "sample.pdf",
+    "about": "this is about candidate",
+    "education": [
+        {
+            "degree": "Bachelors"
+        }
+    ]
+}
+
+https://www.mongodb.com/languages/mean-stack-tutorial
